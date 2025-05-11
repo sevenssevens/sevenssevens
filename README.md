@@ -1,4 +1,4 @@
-hi its seven
+hi its sevens
 
  i like the number
 
